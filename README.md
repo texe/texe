@@ -17,7 +17,7 @@ I'm a Software Engineer in Poland, working in my own small company. I built a lo
 
 ### Skills
 
-PHP is my first love and preferred language.
+PHP is my first love and preferred language. Linux (currently Mint) is my beloved operating system!
 
 My experience covers these topics:
 
