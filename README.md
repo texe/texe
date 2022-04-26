@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/texechris" target="blank"><img src="https://img.shields.io/twitter/follow/texechris?logo=twitter&style=for-the-badge" alt="texechris" /></a> </p>
 
-I'm a Software Engineer in Poland, working in my own small company. I built a lot of projects with PHP and other technologies connected with web development (JS, HTML5, Laravel,Worpres, CSS frameworks etc.). Usually I build websites for my clients from small and medium companies. I help them to exist in world wide web. They can make their core business without distractions around website, hosting, e-mail accounts...
+I'm a Software Engineer in Poland, working in my own small company. I built a lot of projects with PHP and other technologies connected with web development (JS, HTML5, Laravel, WordPress, CSS frameworks etc.). Usually I build websites for my clients from small and medium companies. I help them to exist in world wide web. They can make their core business without distractions around website, hosting, e-mail accounts...
 
 
 
